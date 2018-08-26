@@ -10,9 +10,9 @@ hero_button:
   href: ''
 textline: Sam
 services: []
-show_news: false
+show_news: true
 partners: []
-show_staff: false
+show_staff: true
 published: false
 
 ---
