@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2018/08/26/Sam dope photo.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: Stoic Sam
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,7 +16,7 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: I am a full stack web designer and developer
 textline: |
   Belkirk College of Engineering
 
